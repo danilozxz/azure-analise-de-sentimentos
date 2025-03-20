@@ -33,5 +33,10 @@ Permite treinar modelos personalizados para entender e processar linguagem natur
 - Chatbots mais inteligentes para interações personalizadas.
 
 ## Prints do Processo
+### Estúdio de Fala do Azure
+A IA transcreve em tempo real o conteúdo de um arquivo de áudio enviado.
+![](inputs/estudio-de-fala.png)
 
-
+### Estúdio de Linguagem do Azure
+A IA analisa o sentimento de um texto inserido, identificando sua tonalidade emocional.
+![](inputs/estudio-de-linguagem.png)
